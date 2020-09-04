@@ -10,3 +10,7 @@ tags:
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
   
 > <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+
+<object data="copee drone product design.pdf" type="application/pdf" width="100%" height="100%">
+  <p>Alternative text - include a link <a href="myfile.pdf">to the PDF!</a></p>
+</object>

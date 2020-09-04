@@ -16,9 +16,11 @@ tags:
   <title>kekayan's Resume</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src= "https://docs.google.com/gview?url=https://nbviewer.jupyter.org/github/yosemitefalls/yosemitefalls.github.io/blob/master/assets/images/copee%20drone%20product%20design.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src= "https://github.com/yosemitefalls/yosemitefalls.github.io/raw/master/assets/images/copee1 &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
+
+[get the PDF]({{ yosemitefalls.github.io }}/assets/images/copee drone produce design.pdf)
 
 All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
 
