@@ -16,7 +16,7 @@ tags:
   <title>kekayan's Resume</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://nbviewer.jupyter.org/github/yosemitefalls/yosemitefalls.github.io/blob/master/assets/images/copee%20drone%20product%20design.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src= "https://docs.google.com/gview?url=https://nbviewer.jupyter.org/github/yosemitefalls/yosemitefalls.github.io/blob/master/assets/images/copee%20drone%20product%20design.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
 
