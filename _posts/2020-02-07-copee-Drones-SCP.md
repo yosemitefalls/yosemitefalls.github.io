@@ -1,5 +1,5 @@
 ---
-title: "copee Drones Product Design"
+title: "copee Drones SCP, market Finalization"
 categories:
   - Blog
 tags:
